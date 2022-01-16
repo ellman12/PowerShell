@@ -1,0 +1,1 @@
+taskkill /f /im iCUE.exe ; Start-Process "C:/Program Files (x86)/Corsair/CORSAIR iCUE Software/iCUE.exe"
